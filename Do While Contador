@@ -1,0 +1,11 @@
+/*
+ Do While Contador
+*/
+
+fun main (){
+    var cont = 0
+    do {
+        println("Cont: $cont")
+        cont++
+    } while (cont < 10)
+}
